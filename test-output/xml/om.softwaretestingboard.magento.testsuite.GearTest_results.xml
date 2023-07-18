@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Gear Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.952">
+  <properties />
+  
+  
+            <testcase name="userShouldAddProductSuccessFullyToShoppingCart" time="13.952" classname="om.softwaretestingboard.magento.testsuite.GearTest" />
+      
+</testsuite>
